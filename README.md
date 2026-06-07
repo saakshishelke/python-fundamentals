@@ -10,6 +10,7 @@ This repository contains my Python practice projects while learning AI Engineeri
 - Loops
 - Functions
 - Lists
+- Dictionaries
 
 ## Projects
 - intro.py
@@ -19,6 +20,9 @@ This repository contains my Python practice projects while learning AI Engineeri
 - intro_function.py
 - calculator_functions.py
 - shopping_list.py
+- personal_profile.py
+- dream_commpanies_dict.py
+- 
   
 
 Created by Sakshi Shelke
