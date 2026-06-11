@@ -1,0 +1,5 @@
+file=open("profile.txt","w")
+name=input("Enter your name:")
+dream_company=input("Enter your dream company")
+file.write(f"name:{name}\ndream company:{dream_company}")
+file.close()
